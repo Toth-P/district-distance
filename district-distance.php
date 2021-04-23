@@ -5,7 +5,7 @@
   </head>
   <body>
 
-    <form action="pallatrax.php" method="get">
+    <form action="district-distance.php" method="get">
           <label>District A: </label>
           <input type="number" name="dist_1"/><br>
           <label>District B: </label>
